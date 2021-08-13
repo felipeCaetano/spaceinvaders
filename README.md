@@ -14,7 +14,11 @@ Esta versão é puramente para diversão sem fins comerciais.
 
 
 TO PLAY:
+install Python 3.9+
+pip install pygame
 Download this code and run main.py
 
 Para jogar:
+instale o Python 3.9+
+pip install pygame
 Faça o download do repositório e execute o main.py
